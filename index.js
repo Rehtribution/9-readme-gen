@@ -14,12 +14,24 @@ function init() {
         {
             type: 'input',
             name: 'title',
-            message: 'What is the title of your project?'
+            message: 'What is the title of your project?',
+            validate: function (answer) {
+                if (answer.length < 1) {
+                    return console.log("invalid entry");
+                }
+                return true;
+            }
         },
         {
             type: 'input',
             name: 'description',
-            message: 'What is the description of your project?'
+            message: 'What is the description of your project?',
+            validate: function (answer) {
+                if (answer.length < 1) {
+                    return console.log("invalid entry");
+                }
+                return true;
+            }
         },
         {
             type: 'rawlist',
@@ -53,7 +65,8 @@ function init() {
         {
             type: 'input',
             name: 'contributing',
-            message: 'How can contributions be made to this project?'
+            message: 'Can contributions be made to this project?',
+            default: false
         },
         {
             type: 'input',
@@ -63,7 +76,13 @@ function init() {
         {
             type: 'input',
             name: 'username',
-            message: 'What is your name?'
+            message: 'What is your Github username?',
+            validate: function (answer) {
+                if (answer.length < 1) {
+                    return console.log("invalid entry");
+                }
+                return true;
+            }
         },
         {
             type: 'input',
