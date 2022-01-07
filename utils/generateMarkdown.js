@@ -57,7 +57,7 @@ ${data.contributing}
 ${data.test}
 
 ## Username
-https://api.github.com/users/${data.username}
+https://github.com/${data.username}
 
 ## Contact-Information
 ${data.contact}
