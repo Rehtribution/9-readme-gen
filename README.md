@@ -1,4 +1,4 @@
-# test
+# README Gen
 
   ## Table of Contents
 
@@ -52,10 +52,10 @@ npm
 run "npm i" in the terminal
 
 ## Usage
-computer
+Use this application to generate a README file by inputting information for the prompts.
 
 ## Contributions
-no
+Help from tutoring department
 
 ## Testing
 node run index
