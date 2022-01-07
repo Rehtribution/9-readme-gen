@@ -1,13 +1,14 @@
 const inqurier = require('inquirer');
 const fs = require('fs')
+//ties in the generatemarkdown page
 const generate = require('./utils/generateMarkdown')
 
-// TODO: Create a function to write README file
+//writes information to the readme file
 function writeToFile(data) {
     fs.writeFile('README.md', generate(data), (err) => err ? console.log(err) : console.log('Read me file has been created!'))
 }
 
-// TODO: Create a function to initialize app
+//function to initialize app and start the prompts
 function init() {
     inqurier.prompt([
         {
@@ -87,7 +88,7 @@ function init() {
             message: 'What is your email?'
         },
     ]).then(answers => {
-
+//call the function to create the readme
         writeToFile(answers)
     })
 }

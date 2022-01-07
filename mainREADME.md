@@ -35,4 +35,4 @@ This is the Ninth Challenge homework assignment and will meet the acceptance cri
 
 - [Portfolio] https://rehtribution.github.io/portfolio/
 
-- Help from tutor Anthony, 
+- Help from tutor Anthony
