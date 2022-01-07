@@ -22,7 +22,8 @@ This is the Ninth Challenge homework assignment and will meet the acceptance cri
 - THEN I am taken to the corresponding section of the README
 
 ## Walkthrough Video
-<iframe src="https://drive.google.com/file/d/1kNrtBE9OzBYfhq_zapI65-vPmmxQTahq/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1kNrtBE9OzBYfhq_zapI65-vPmmxQTahq/view
+" width="640" height="480" allow="autoplay"></iframe>
 
 ## Built With
 
