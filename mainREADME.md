@@ -21,9 +21,11 @@ This is the Ninth Challenge homework assignment and will meet the acceptance cri
 - WHEN I click on the links in the Table of Contents
 - THEN I am taken to the corresponding section of the README
 
-## Walkthrough Video
-<iframe src="https://drive.google.com/file/d/1kNrtBE9OzBYfhq_zapI65-vPmmxQTahq/view
-" width="640" height="480" allow="autoplay"></iframe>
+## Walkthrough Video and Gif Demonstration
+
+https://user-images.githubusercontent.com/92597876/148612918-9a1934e1-bb63-474a-b7a4-395d2905dfe5.mp4
+
+![tableOfContentsGif](https://user-images.githubusercontent.com/92597876/148612997-87994391-b462-4f56-a1e3-998cdffc09b3.gif)
 
 ## Built With
 
