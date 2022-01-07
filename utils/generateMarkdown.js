@@ -47,8 +47,6 @@ ${data.test}
 ## Username
 https://github.com/${data.username}
 
-<img alt = "GitHub Profile Picture" src = "${data.avatar_url}">
-
 ## Contact-Information
 ${data.contact}
 

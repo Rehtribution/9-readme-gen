@@ -42,7 +42,6 @@ function init() {
                 'BSD_2--Clausee',
                 'GNU',
                 'MIT',
-                'Mozilla Public License_2.0',
                 'Eclipse_2.0'
             ]},
         {

@@ -1,4 +1,4 @@
-# 1
+# readme gen
 
   ## Table of Contents
 
@@ -22,31 +22,29 @@
 
 
 ## Description
-2
+to generate a readme file using user inputs in node
 
 ## License
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Installation-Requirements
-2
+node
 
 ## Installation
-2
+npm i
 
 ## Usage
-2
+user inputs information at the prompts
 
 ## Contributions
-2
+no
 
 ## Testing
-3
+by running node index.js in the terminal
 
 ## Username
 https://github.com/rehtribution
 
-<img alt = "GitHub Profile Picture" src = "undefined">
-
 ## Contact-Information
-d
+email.com
 
