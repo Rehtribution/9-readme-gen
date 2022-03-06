@@ -3,8 +3,9 @@
 <h2 align="center">Project Description</h2>
 README Gen is a README generator that can quickly create a professional README for a new project.
 
-This is the Ninth Challenge homework assignment and will meet the acceptance criteria listed below:
+<h2 align="center">User Story</h2>
 
+```
 - GIVEN a command-line application that accepts user input
 - WHEN I am prompted for information about my application repository
 - THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
@@ -20,6 +21,7 @@ This is the Ninth Challenge homework assignment and will meet the acceptance cri
 - THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
 - WHEN I click on the links in the Table of Contents
 - THEN I am taken to the corresponding section of the README
+```
 
 ## Walkthrough Video and Gif Demonstration
 
@@ -36,6 +38,6 @@ https://user-images.githubusercontent.com/92597876/148612918-9a1934e1-bb63-474a-
 
 ## Author/Contributors
 
-- [Portfolio] https://rehtribution.github.io/portfolio/
+[![GitHub Portfolio -> - Rehtribution](https://img.shields.io/badge/GitHub_Portfolio_-->-Rehtribution-darkred?style=for-the-badge)](https://github.com/Rehtribution)
 
-- Help from tutor Anthony
+- Help from Anthony Parillo
