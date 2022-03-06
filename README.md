@@ -40,4 +40,4 @@ https://user-images.githubusercontent.com/92597876/148612918-9a1934e1-bb63-474a-
 
 [![GitHub Portfolio -> - Rehtribution](https://img.shields.io/badge/GitHub_Portfolio_-->-Rehtribution-darkred?style=for-the-badge)](https://github.com/Rehtribution)
 
-- Help from Anthony Parillo
+- Anthony Parillo
